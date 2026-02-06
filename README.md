@@ -1,7 +1,7 @@
 # 💫 About Me
 Hi there 👋, I’m **Muhammad Hadi**!  
 
-🔭 I’m currently working on **personal web projects and improving coding skills**  
+🔭 I’m currently building responsive web apps and student-focused projects to strengthen real-world skills
 👯 I love collaborating on **open-source projects & student-friendly tools**  
 🤝 Seeking guidance on **advanced web development & database design**  
 🌱 Learning **React, Node.js, SQL, and networking concepts**  
@@ -39,7 +39,18 @@ Hi there 👋, I’m **Muhammad Hadi**!
 
 ---
 
-## 🚀 Currently Learning
+## 🧠 Primary Languages Focus
+
+- 🌐 **HTML** — Advanced (Portfolio, UI layouts, semantic structure)
+- 🎨 **CSS** — Advanced (Flexbox, Grid, Responsive Design)
+- ⚙️ **JavaScript** — Intermediate
+- ⚛️ **React** — Beginner (Components, JSX, basic hooks)
+- 🐘 **PHP** — Beginner
+- 🐍 **Python** — Beginner
+
+  ---
+## 🚀 Currently Practicing
+
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
@@ -47,13 +58,15 @@ Hi there 👋, I’m **Muhammad Hadi**!
 
 ---
 
----
 
 ## 🏆 Top Projects
+- Responsive personal portfolio built with **HTML, CSS, JavaScript**
+- Focus on clean UI, accessibility & performance 
 <p align="center">
   <a href=https://github.com/MHadi-22/Portfolio-Hadi.git>
     <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge" />
   </a>
+
 
 
 ---
@@ -64,14 +77,6 @@ Hi there 👋, I’m **Muhammad Hadi**!
   <img src="https://img.shields.io/github/stars/MHadi-22?label=Stars&style=for-the-badge">
 </p>
 
-## 🧠 Primary Languages Focus
-
-- 🌐 **HTML** — Advanced (Portfolio, UI layouts, semantic structure)
-- 🎨 **CSS** — Advanced (Flexbox, Grid, Responsive Design)
-- ⚙️ **JavaScript** — Intermediate
-- ⚛️ **React** — Beginner (Components, JSX, basic hooks)
-- 🐘 **PHP** — Beginner
-- 🐍 **Python** — Beginner
 
 
 ---
