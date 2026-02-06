@@ -69,9 +69,9 @@ Hi there 👋, I’m **Muhammad Hadi**!
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHadi-22&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHadi-22&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHadi-22&theme=radical&layout=compact" />
+  
 </p>
 
 ---
