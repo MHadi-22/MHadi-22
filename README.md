@@ -83,23 +83,13 @@ Hi there 👋, I’m **Muhammad Hadi**!
 ---
 ---
 ## 🌟 Fun Activity & Contribution
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MHadi-22&theme=radical&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="600"/>
-</p>
+---
+
+## 👁️ Profile Views
 
 <p align="center">
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHadi-22&theme=radical&layout=compact" alt="Top Languages" width="400"/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=MHadi-22&style=for-the-badge&color=blue)
 </p>
 
-<p align="center">
-  <!-- Fun Coding GIF -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="300"/>
-</p>
 
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=MHadi-22&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
 
