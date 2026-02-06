@@ -60,7 +60,7 @@ Hi there 👋, I’m **Muhammad Hadi**!
 
 ## 🏆 Top Projects
 <p align="center">
-  <a href="https://github.com/MHadi-22/portfolio" target="_blank">
+  <a href=https://github.com/MHadi-22/Portfolio-Hadi.git>
     <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge" />
   </a>
 
