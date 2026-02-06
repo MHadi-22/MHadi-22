@@ -82,30 +82,14 @@ Hi there 👋, I’m **Muhammad Hadi**!
 
 ---
 ---
-
 ## 🌟 Fun Activity & Contribution
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MHadi-22&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <!-- GitHub Contribution Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=MHadi-22&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="600"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MHadi-22&color=blueviolet" alt="Profile Views" />
+  <!-- GitHub Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=MHadi-22&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MHadi-22&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Visitors
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MHadi-22&icon=0&color=0" alt="Visitors Count" />
-</p>
-## 👨‍💻 Coding in Action
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="300" />
-</p>
