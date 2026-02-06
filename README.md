@@ -63,13 +63,7 @@ Hi there 👋, I’m **Muhammad Hadi**!
   <a href="https://github.com/MHadi-22/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge" />
   </a>
-  <a href="https://github.com/MHadi-22/student-info-system" target="_blank">
-    <img src="https://img.shields.io/badge/Student_Info_System-View-green?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MHadi-22/networking-labs" target="_blank">
-    <img src="https://img.shields.io/badge/Networking_Labs-View-red?style=for-the-badge" />
-  </a>
-</p>
+
 
 ---
 
@@ -81,15 +75,7 @@ Hi there 👋, I’m **Muhammad Hadi**!
 </p>
 
 ---
----
-## 🌟 Fun Activity & Contribution
----
 
-## 👁️ Profile Views
-
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=MHadi-22&style=for-the-badge&color=blue)
-</p>
 
 
 
