@@ -81,30 +81,27 @@ Hi there 👋, I’m **Muhammad Hadi**!
 </p>
 
 ---
+---
 
 ## 🌟 Fun Activity & Contribution
 <p align="center">
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MHadi-22&theme=react-dark&hide_border=true)
+  <img src="https://activity-graph.herokuapp.com/graph?username=MHadi-22&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=MHadi-22&color=blueviolet)
+  <img src="https://komarev.com/ghpvc/?username=MHadi-22&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MHadi-22&theme=radical&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MHadi-22&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 📈 Visitors
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=MHadi-22&icon=0&color=0" />
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=MHadi-22&icon=0&color=0" alt="Visitors Count" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
