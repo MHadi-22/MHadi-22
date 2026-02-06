@@ -93,4 +93,13 @@ Hi there 👋, I’m **Muhammad Hadi**!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHadi-22&theme=radical&layout=compact" alt="Top Languages" width="400"/>
 </p>
 
+<p align="center">
+  <!-- Fun Coding GIF -->
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="300"/>
+</p>
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=MHadi-22&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
