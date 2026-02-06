@@ -82,6 +82,17 @@ Hi there 👋, I’m **Muhammad Hadi**!
 
 ---
 
+## 🌟 Fun Activity & Contribution
+<p align="center">
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MHadi-22&theme=react-dark&hide_border=true)
+</p>
+
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=MHadi-22&color=blueviolet)
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MHadi-22&theme=radical&no-bg=true&margin-w=4" />
