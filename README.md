@@ -69,10 +69,10 @@ Hi there 👋, I’m **Muhammad Hadi**!
 
 ## 📊 GitHub Stats
 <p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHadi-22&theme=radical" />
-  
+  <img src="https://img.shields.io/github/followers/MHadi-22?label=Followers&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/MHadi-22?label=Stars&style=for-the-badge">
 </p>
+
 
 ---
 ## 👀 Visitor Count
