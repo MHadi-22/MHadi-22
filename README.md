@@ -47,15 +47,6 @@ Hi there 👋, I’m **Muhammad Hadi**!
 
 ---
 
-## 🎨 Animated Fun Icons
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-</p>
-
 ---
 
 ## 🏆 Top Projects
@@ -72,6 +63,15 @@ Hi there 👋, I’m **Muhammad Hadi**!
   <img src="https://img.shields.io/github/followers/MHadi-22?label=Followers&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/MHadi-22?label=Stars&style=for-the-badge">
 </p>
+
+## 🧠 Primary Languages Focus
+
+- 🌐 **HTML** — Advanced (Portfolio, UI layouts, semantic structure)
+- 🎨 **CSS** — Advanced (Flexbox, Grid, Responsive Design)
+- ⚙️ **JavaScript** — Intermediate
+- ⚛️ **React** — Beginner (Components, JSX, basic hooks)
+- 🐘 **PHP** — Beginner
+- 🐍 **Python** — Beginner
 
 
 ---
