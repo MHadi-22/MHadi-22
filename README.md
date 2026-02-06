@@ -10,7 +10,7 @@ Hi there 👋, I’m **Muhammad Hadi**!
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/hadi_.22x) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/MuhammadHadi) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://tiktok.com/@hadii_0) 
@@ -21,66 +21,79 @@ Hi there 👋, I’m **Muhammad Hadi**!
 ## 💻 Tech Stack & Skills
 
 ### Programming
-- ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### Web Development
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Database & Tools
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-### Skill Progress
-**Web Development**  
-`HTML` ▓▓▓▓▓▓▓▓▓ 90%  
-`CSS` ▓▓▓▓▓▓▓▓ 85%  
-`JavaScript` ▓▓▓▓▓▓▓ 75%  
-`React` ▓▓▓▓▓▓ 65%  
-
-**Programming**  
-`C` ▓▓▓▓▓▓▓▓ 85%  
-`Java` ▓▓▓▓▓▓ 70%  
-`Python` ▓▓▓▓▓ 60%  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
 
-## 🚀 Top Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| Portfolio Website | My personal portfolio with interactive UI | [View](https://github.com/MHadi-22/portfolio) |
-| Student Info System | MySQL & PHP-based student management | [View](https://github.com/MHadi-22/student-info-system) |
-| Networking Setup | Cisco Packet Tracer networking labs | [View](https://github.com/MHadi-22/networking-labs) |
+## 🚀 Currently Learning
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 🎨 Animated Fun Icons
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+</p>
+
+---
+
+## 🏆 Top Projects
+<p align="center">
+  <a href="https://github.com/MHadi-22/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/MHadi-22/student-info-system" target="_blank">
+    <img src="https://img.shields.io/badge/Student_Info_System-View-green?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/MHadi-22/networking-labs" target="_blank">
+    <img src="https://img.shields.io/badge/Networking_Labs-View-red?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHadi-22&theme=radical&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHadi-22&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHadi-22&theme=radical&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MHadi-22&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHadi-22&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHadi-22&theme=radical&layout=compact" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MHadi-22&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MHadi-22&theme=radical&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
 ## 📈 Visitors
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=MHadi-22&icon=0&color=0" alt="Visit Count" /></a>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=MHadi-22&icon=0&color=0" />
+  </a>
 </p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
