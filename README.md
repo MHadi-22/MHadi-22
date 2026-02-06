@@ -1,12 +1,12 @@
 # 💫 About Me
-Hi there 👋, I’m **Muhammad Hadi**!  
+Hi there 👋, I’m **Muhammad Hadi**! 
 
-🔭 I’m currently building responsive web apps and student-focused projects to strengthen real-world skills
-👯 I love collaborating on **open-source projects & student-friendly tools**  
-🤝 Seeking guidance on **advanced web development & database design**  
-🌱 Learning **React, Node.js, SQL, and networking concepts**  
-💬 Ask me about **web development, coding challenges & networking tips**  
-⚡ Fun fact: **I enjoy turning coffee ☕ into clean code 💻**
+🔭 Currently building **responsive web apps** and **practical projects** to gain real-world experience  
+👯 Passionate about collaborating on **open-source initiatives** and **student-friendly tools**  
+🤝 Open to guidance on **advanced web development, database design, and best practices**  
+🌱 Actively learning **React, Node.js, SQL, and networking concepts**  
+💬 Ask me about **web development, coding challenges, project ideas, and networking tips**
+
 
 ---
 
